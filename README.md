@@ -1,4 +1,4 @@
-# projetoRPG
+# projetoRPG 👾
 
  projeto pessoal com desenvolvimento em conjunto entre dois amigos
  que querem facilitar um pouco a vida ao jogar um d&d nas horas de lazer
